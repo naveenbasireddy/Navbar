@@ -1,5 +1,5 @@
 # Navgation Menu using CSS
-Here is a link for demo of this repo: <a  href="https://naveenbasireddy.github.io/Navbar/">View Demo</a>
+Here is a link for demo of this repo: <a  href="https://bnaveen07.github.io/Navbar/">View Demo</a>
 
 No copyright issues.
 
